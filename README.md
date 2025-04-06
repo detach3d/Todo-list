@@ -1,4 +1,4 @@
-# 📝 To-Do List App
+# 📝 To-Do List App in C++
 
 A simple and intuitive To-Do List application that helps you stay organized and on track.
 
